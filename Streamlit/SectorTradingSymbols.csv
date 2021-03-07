@@ -1,0 +1,30 @@
+﻿Sectors,Symbol,Name,SymbolName
+ETF,AMT,American Tower Corp,AMT:American Tower Corp
+ETF,BXP,Boston Properties,BXP:Boston Properties
+ETF,EQIX,Equinix,EQIX:Equinix
+ETF,SPY,SPDR S&P 500 ETF Trust,SPY:SPDR S&P 500 ETF
+Finance,BAC,Bank of America,BAC:Bank of America
+Finance,JPM,JP Morgan Chase,JPM:JP Morgan Chase
+Finance,GS,Goldman Sachs,GS:Goldman Sachs
+Finance,BRK-A,Berkshire Hathaway,BRK-A:Berkshire Hathaway
+Finance,AXP,American Express,AXP:American Express
+Finance,AON,Aon Plc,AON:Aon Plc
+Health,JNJ,Johnson & Johnson,JNJ:Johnson & Johnson
+Health,UNH,UnitedHealth,UNH:UnitedHealth
+Health,PFE,Pfizer,PFE:Pfizer
+Health,CGC,Canopy Growth,CGC:Canopy Growth
+Health,ACB,Aurora Cannabis,ACB:Aurora Cannabis
+Media,NFLX,NetFlix,NFLX:NetFlix
+Media,DIS,Disney,DIS:Disney
+Media,T,AT&T,T:AT&T
+Media,CBS,CBS Corp,CBS:CBS Corp
+Media,VIAC,Viacom,VIAC:Viacom
+Food,PG,Procter & Gamble,PG:Procter & Gamble
+Food,KR,Kroger,KR:Kroger
+Tech,MSFT,Microsoft,MSFT:Microsoft
+Tech,ORCL,Oracle,ORCL:Oracle
+Tech,MA,Mastercard,MA:Mastercard
+Tech,GOOG,Google,GOOG:Google
+Tech,AAPL,Apple,AAPL:Apple
+Tech,FB,Facebook,FB:Facebook
+Tech,SNPS,Synopsys,SNPS:Synopsys
