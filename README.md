@@ -65,6 +65,10 @@ The goal of this research project is to examine techniques and tools for differe
 
         ![JPMftmleaps](Images/JPM_ftm_leaps.png)
 
+    * For a brief clip on the app, please play the following link  
+    
+        <https://drive.google.com/file/d/1KMXna3p0Ieii2r7A-BUTCLA5B3q_Z6hT/view?usp=sharing>
+
 ## Insights and challenges
 
 *   It Pays to Pay for Big Data!
